@@ -2,6 +2,6 @@
 <h3 align="center">iOS Developer 👨🏽‍💻 📱 </h3>
 
 - 👨🏽‍💻 My app [DoMore](https://apps.apple.com/us/app/domore/id6444235740) now available on the App Store 
-- 🤓 Always learning 
-- 💜 Love helping others 
+- 📚 Always learning 
+- 🤝 Love helping others 
 - 📫 Feel free to contact me  **josuegcp95@gmail.com**
